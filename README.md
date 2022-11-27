@@ -18,8 +18,9 @@ App is handler or controller (also called user-side adapters in hexagonal's term
 if you run the installation correctly the application should run in port 4001 (default)
 
 ## Testing
-Cause we use hexagonal the business logic in domain business should able to test and make higher code covered by test. to ensure there are no redundant or unwanted code (even can not be test) Execute this command
-`$ make cover-html`.
+Cause we use hexagonal the business logic in domain business should able to test and make higher code covered by test. To ensure there are no redundant or unwanted code (even can not be test) please execute this command
+
+`$ make cover-html`
 
 ## API Doc
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/1806312/2s8YswRBYf)
