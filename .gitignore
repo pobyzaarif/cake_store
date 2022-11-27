@@ -1,0 +1,6 @@
+.env
+logs/*
+cake_store.app
+cake_store_migrate_mysql.app
+coverage.out
+cover.html

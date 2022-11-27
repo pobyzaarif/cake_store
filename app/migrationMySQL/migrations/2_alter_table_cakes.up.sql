@@ -1,0 +1,1 @@
+ALTER TABLE `cakes` CHANGE `rating` `rating` int(11) NOT NULL;

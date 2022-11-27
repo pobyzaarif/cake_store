@@ -1,0 +1,1 @@
+ALTER TABLE `cakes` CHANGE `rating` `rating` TEXT NOT NULL;
